@@ -1,0 +1,15 @@
+#ifndef WORD_
+#define WORD_
+
+
+class word
+{
+    public:
+        word();
+
+    protected:
+
+    private:
+};
+
+#endif // WORD_

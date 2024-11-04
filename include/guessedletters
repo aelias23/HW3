@@ -1,0 +1,15 @@
+#ifndef GUESSEDLETTERS_
+#define GUESSEDLETTERS_
+
+
+class guessedLetters
+{
+    public:
+        guessedLetters();
+
+    protected:
+
+    private:
+};
+
+#endif // GUESSEDLETTERS_

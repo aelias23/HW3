@@ -1,0 +1,15 @@
+#ifndef GAMESTATE_
+#define GAMESTATE_
+
+
+class gameState
+{
+    public:
+        gameState();
+
+    protected:
+
+    private:
+};
+
+#endif // GAMESTATE_
